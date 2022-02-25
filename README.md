@@ -1,0 +1,1 @@
+# AspNetCoreCleanArchitecture
